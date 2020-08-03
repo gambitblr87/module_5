@@ -1,0 +1,13 @@
+#button-fetch {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+#buttons {
+  margin-top: 50px;
+}
+
+h1,
+.result {
+  margin-top: 40px;
+}
